@@ -1,0 +1,28 @@
+                           
+     Servidor Gestor Configurações
+----------------Desktop----------------------------------Services-----------------
+IP Configuration:                       |  EMAIL: 
+                Interface: FastEthernet0|       Interface: FastEthernet0        
+ #Static:                               |      Domain Name:eduardolupossa.edu.ao 
+      IP Address:198.100.255.10         |     
+      Subnet Mask:255.255.255.0         |      
+      Default Gateway:0.0.0.0           |      
+      DNS Server:192.168.2.254          |        
+----------------Services-----------------------------------------------------------
+ #DHCP:                                 |  
+      Interface: FastEthernet0          |                 
+      Start IP Adrress:198.100.255.0    |       
+      Subnet Mask:255.255.255.0         |      
+      Default Gateway:0.0.0.0           |      
+      DNS Server:198.100.255.10         |       
+      Pool Name:serverPool              |
+      Maximum number of Users:256       |
+      TFTP Server:0.0.0.0               |       
+----------------Services-----------------
+ #DNS Server:                           |  
+                Interface: FastEthernet0|        
+      No: 0                             |   
+      Name:www.eduardolupossa.edu.ao    |       
+      Type:A Record                     |       
+      IP Address:192.168.2.254          |      
+-----------------------------------------
